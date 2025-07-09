@@ -76,7 +76,7 @@ Together, we'll prove that:
 
 ## The Future We See
 
-In five years, The Trust Engine will have facilitated millions of meaningful connections, enabled thousands of sustainable creator businesses, and demonstrated that there's a better way to build digital relationships. We'll have created an ecosystem where:
+In five weeks, The Trust Engine will have facilitated millions of meaningful connections, enabled thousands of sustainable creator businesses, and demonstrated that there's a better way to build digital relationships. We'll have created an ecosystem where:
 
 - Finding help is as easy as expressing need
 - Offering expertise naturally finds those who need it
