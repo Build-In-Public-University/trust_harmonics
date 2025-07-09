@@ -1,4 +1,5 @@
 3.4 Case Study: The Twitter Trust Collapse
+
 3.4.1 Timeline of Destruction
 2006-2010: Genuine conversation platform
 2011-2015: Metric gamification begins
